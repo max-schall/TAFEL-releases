@@ -2,7 +2,7 @@
 
 **Tiefenentspannter Arbeitsfluss für engagierte Lehrkräfte**
 
-<img width="643" height="643" alt="logo" src="https://github.com/user-attachments/assets/9fb2c881-04e1-4de1-a6f9-e35c12ec2c2a" />
+<img width="883" height="145" alt="Bildschirmfoto_20260729_095147" src="https://github.com/user-attachments/assets/abd4efe3-d6c2-4e9f-8111-e4e6ce31d6b1" />
 
 TAFEL ist eine Desktop-Anwendung für Lehrkräfte. Sie vereint Klassen, Noten,
 Stundenpläne, Coaching-Notizen, Sitzpläne und KI-gestützte
