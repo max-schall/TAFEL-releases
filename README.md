@@ -12,12 +12,12 @@ Lernentwicklungsberichte an einem Ort.
 
 ## Local-First – Ihre Daten bleiben auf Ihrem Gerät
 
-TAFEL folgt einem einfachen Grundsatz: **Schülerdaten gehören der Lehrkraft,
+TAFEL folgt einem einfachen Grundsatz: **Schülerdaten gehören nur der Lehrkraft,
 nicht irgendwelchen digitalen Anbietern.**
 
 - **Alles läuft lokal.** Die App, ihre Datenbank und sogar das KI-Modell laufen
   auf Ihrem eigenen Computer. Es gibt keinen TAFEL-Server, kein Login, kein Konto.
-- **Es werden keine Daten an mich übertragen – niemals.** Der Entwickler erhält,
+- **Es werden keine Daten übertragen – niemals.** Der Entwickler erhält,
   verarbeitet oder speichert keine Ihrer Daten. Es gibt **keine Telemetrie,
   keine Analyse, kein Nutzungs-Tracking, kein „Nach-Hause-Telefonieren“**. Auf Wunsch kann manuell ein Fehlerbericht verschickt werden - TAFEL funktioniert vollständig offline.
 - **Alle Schülerdaten sind verschlüsselt gespeichert.** Namen und persönliche
